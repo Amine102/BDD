@@ -3,7 +3,7 @@
 ## Prétraitements sous OpenRefine
 ## Prétraitements sous R
  - Ouvrez le logiciel R, importez votre fichier CSV prétraiter par OpenRefine (File -> Import Dataset -> From Text (base)... ->  Cochez YES dans la partie Heading puis cliquez sur Import).
- ![Image description]("Rstudio.png")
+ ![Import sous R](https://user-images.githubusercontent.com/43194428/76044371-6e460780-5f5a-11ea-833d-9c5d8d8d6de7.png)
  - De la même façon, importez le dataset departements-region.csv,
  - La première étape consiste à changer le séparateur de décimals de chaque valeurs figurant dans la colone Salaire. Exécutez le script suivant en ligne de commande R:
  ```R
