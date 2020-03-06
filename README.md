@@ -2,8 +2,10 @@
 # Préparation des données 
 ## Prétraitements sous OpenRefine
 ## Prétraitements sous R
- - Ouvrez le logiciel R, importez votre fichier CSV prétraiter par OpenRefine (File -> Import Dataset -> From Text (base)... ->  Cochez YES dans la partie Heading puis cliquez sur Import).
-  
+ - Ouvrez le logiciel R, importez votre fichier CSV prétraiter par OpenRefine 
+ ``` Bash
+ (File -> Import Dataset -> From Text (base)... ->  Cochez YES dans la partie Heading puis cliquez sur Import).
+ ``` 
  ![Import sous R](https://user-images.githubusercontent.com/43194428/76044371-6e460780-5f5a-11ea-833d-9c5d8d8d6de7.png)
  - De la même façon, importez le dataset departements-region.csv,
  - Avant de commencer les prétraitements, utiliser une variable d'environnement afin de ne pas modifier le fichier importé (dans notre cas, nous l'appellerons DATA):
