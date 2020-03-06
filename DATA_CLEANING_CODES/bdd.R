@@ -50,7 +50,7 @@ clean <- function(dataset){ #Fonction de cleaning (à utiliser uniquement à la 
   return(dataset)
 }
 
-write.csv(SALAIRE,"~/<PATH>/SALAIRE2015.csv")
+write.csv(SALAIRE,"~/<PATH>/SALAIRE_F.csv")
 
 
 
