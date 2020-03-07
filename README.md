@@ -99,3 +99,8 @@
  - Amine Boulahmel amine.boulahmel@etud.univ-nantes.fr
  - Matthieu Juzdzewski matthieu.juzdzewski@etud.univ-nantes.fr
  - Harry Jandu harry.jandu@etud.univ-nantes.fr
+ # License & copyright
+ © Amine Boulahmel, Université de Nantes
+ © Matthieu Juzdzewski, Université de Nantes
+ © Harry Jandu, Université de Nantes
+ Licensed under the [MIT License] (LICENSE).
