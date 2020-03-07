@@ -95,4 +95,7 @@
  ```R
   write.csv(FINAL_DATA,"~/<Chemin>/<nom_dataset_ANNEE>.csv")
  ```
- 
+ # Contributors
+ - Amine Boulahmel amine.boulahmel@etud.univ-nantes.fr
+ - Matthieu Juzdzewski matthieu.juzdzewski@etud.univ-nantes.fr
+ - Harry Jandu harry.jandu@etud.univ-nantes.fr
