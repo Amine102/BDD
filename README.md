@@ -1,4 +1,7 @@
 # BDD
+# Prérequis
+- OpenRefine: https://openrefine.org/download.html
+- Rstudio: https://rstudio.com/products/rstudio/download/
 # Préparation des données 
 ## Prétraitements sous OpenRefine
 > :warning: **On suppose qu'OpenRefine est  déjà installé**
