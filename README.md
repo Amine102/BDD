@@ -32,7 +32,7 @@
  ![Import sous R](https://user-images.githubusercontent.com/43194428/76044371-6e460780-5f5a-11ea-833d-9c5d8d8d6de7.png)
  - Après sélection du fichier, une fenêtre d'options apparaîtra; Cochez YES dans la partie Heading puis cliquez sur Import
  
- ![head](https://user-images.githubusercontent.com/43194428/76151958-9187c880-60ba-11ea-85a2-45e79196fbe5.png)
+ ![Head](https://user-images.githubusercontent.com/43194428/76153807-cb17fe00-60d1-11ea-9165-7a09cb59d9a5.png)
  - De la même façon, importez le dataset departements-region.csv,
  - Avant de commencer les prétraitements, utiliser une variable d'environnement afin de ne pas modifier le fichier importé (dans notre cas, nous l'appellerons DATA):
  ```R
