@@ -1,6 +1,9 @@
 # BDD
 # Préparation des données 
 ## Prétraitements sous OpenRefine
+> :warning: **On suppose qu'OpenRefine est  déjà installé sur votre PC**
+- Suppression des colonnes inutiles :
+
 ## Prétraitements sous R
  - Ouvrez le logiciel R, importez votre fichier CSV prétraiter par OpenRefine 
  ``` Bash
