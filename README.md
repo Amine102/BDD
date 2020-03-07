@@ -10,6 +10,8 @@
 
 *Renommer les colonnes*
 
+![ETAPE2_RENAMECOLUMN](https://user-images.githubusercontent.com/34581620/76153307-7a50d700-60ca-11ea-9f7e-6ffd9e8c2b74.jpg)
+
 ## Prétraitements sous R
  - Ouvrez le logiciel R, importez votre fichier CSV prétraiter par OpenRefine 
  ``` Bash
