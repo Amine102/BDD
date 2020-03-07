@@ -1,10 +1,13 @@
 # BDD
 # Préparation des données 
 ## Prétraitements sous OpenRefine
-> :warning: **On suppose qu'OpenRefine est  déjà installé sur votre PC**
-- Suppression des colonnes inutiles :
+> :warning: **On suppose qu'OpenRefine est  déjà installé**
+- **Phase de nettoyage des données :**
+
+ *Suppression des colonnes inutiles*
 
 ![ETAPE1_DELETECOLUMNS](https://user-images.githubusercontent.com/34581620/76152986-38259680-60c6-11ea-8929-78f52f9d183a.jpg)
+
 
 ## Prétraitements sous R
  - Ouvrez le logiciel R, importez votre fichier CSV prétraiter par OpenRefine 
