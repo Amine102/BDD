@@ -21,7 +21,15 @@
 
 - **Phase de transformation**
 
-*Transformation matricielle des colonnes en lignes*
+1. *Transformation matricielle des colonnes en lignes*
+
+L'objectif est de transposer les colonnes en lignes. Il va falloir choisir l'ensemble des colonnes à transposer.
+   - Cliquer sur la première colonnes que vous souhaitez transposer
+   - Choisissez *Transpose*
+   - Dans la partie gauche de la fenêtre qui vient de s'ouvrir, choisissez l'ensemble des colonnes à transposer
+   - Dans la partie droite, entrez le nom pour la nouvelle colonne qui contiendra les valeurs des anciennes colonnes et le nom pour la nouvelle colonne qui contiendra les valeur des cellules correspondantes (dans le cas de ce dataset, les salaires)
+
+![ETAPE4_TranspoMatricielle](https://user-images.githubusercontent.com/34581620/76153801-b63b6a80-60d1-11ea-9fe0-eba264a958e7.jpg)
 
 
 ## Prétraitements sous R
@@ -32,7 +40,7 @@
  ![Import sous R](https://user-images.githubusercontent.com/43194428/76044371-6e460780-5f5a-11ea-833d-9c5d8d8d6de7.png)
  - Après sélection du fichier, une fenêtre d'options apparaîtra; Cochez YES dans la partie Heading puis cliquez sur Import
  
- ![Head](https://user-images.githubusercontent.com/43194428/76153807-cb17fe00-60d1-11ea-9165-7a09cb59d9a5.png)
+ ![head](https://user-images.githubusercontent.com/43194428/76151958-9187c880-60ba-11ea-85a2-45e79196fbe5.png)
  - De la même façon, importez le dataset departements-region.csv,
  - Avant de commencer les prétraitements, utiliser une variable d'environnement afin de ne pas modifier le fichier importé (dans notre cas, nous l'appellerons DATA):
  ```R
@@ -95,12 +103,4 @@
  ```R
   write.csv(FINAL_DATA,"~/<Chemin>/<nom_dataset_ANNEE>.csv")
  ```
- # Contributors
- - Amine Boulahmel amine.boulahmel@etud.univ-nantes.fr
- - Matthieu Juzdzewski matthieu.juzdzewski@etud.univ-nantes.fr
- - Harry Jandu harry.jandu@etud.univ-nantes.fr
- # License & copyright
- © Amine Boulahmel, Université de Nantes
- © Matthieu Juzdzewski, Université de Nantes
- © Harry Jandu, Université de Nantes
- Licensed under the [MIT License] (LICENSE).
+ 
