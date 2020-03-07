@@ -4,11 +4,18 @@
 > :warning: **On suppose qu'OpenRefine est  déjà installé**
 - **Phase de nettoyage des données :**
 
- *Suppression des colonnes inutiles*
+ 1.*Suppression des colonnes inutiles*
+   - Cliquez sur la colonne que vous voulez supprimer
+   - Choisissez *Edit Column*
+   - Choisissez *Remove this column*
 
 ![ETAPE1_DELETECOLUMNS](https://user-images.githubusercontent.com/34581620/76152986-38259680-60c6-11ea-8929-78f52f9d183a.jpg)
 
-*Renommer les colonnes*
+2.*Renommer les colonnes*
+  - Cliquez sur la colonne que vous voulez renommer
+  - Choisissez *Edit column*
+  - Choisissez *Rename this column*
+  - Entrez le nouveau nom dans la fenêtre qui apprarait et validez
 
 ![ETAPE2_RENAMECOLUMN](https://user-images.githubusercontent.com/34581620/76153307-7a50d700-60ca-11ea-9f7e-6ffd9e8c2b74.jpg)
 
