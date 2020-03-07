@@ -31,6 +31,34 @@ L'objectif est de transposer les colonnes en lignes. Il va falloir choisir l'ens
 
 ![ETAPE4_TranspoMatricielle](https://user-images.githubusercontent.com/34581620/76153801-b63b6a80-60d1-11ea-9fe0-eba264a958e7.jpg)
 
+2. *Création de la colonne Categorie*
+
+Il faut maintenant créer la colonne catégorie. Pour cela, il va falloir utiliser le langage GREL :
+   
+   - Cliquez sur la colonne qui concentre les informations de genre et catégorie
+   - Choisissez *add column based on this column*
+   - Nommez la colonne *Catégorie*
+   - Entrez le code GREL suivant : 
+   ``` 
+ if(contains(value,"C"), "Cadre",
+ if(contains(value,"P"), "Profession",
+ if(contains(value,"E"), "Employé", "Ouvrier")))
+ ```
+ 
+ 3. *Création de la colonne Genre*
+ 
+ Il faut maintenant créer la colonne catégorie. Pour cela, il va falloir utiliser le langage GREL à nouveau. Le principe est le même que précédemment.
+    - Cliquez sur la colonne qui concentre les informations de genre et catégorie
+   - Choisissez *add column based on this column*
+   - Nommez la colonne *Catégorie*
+   - Entrez le code GREL suivant :
+   ``` 
+ if(contains(value,"MF"), "Femme", "Homme")
+ ```
+ 
+ C'est terminé, le nettoyage et la transformation sur OpenRefine devraient vous donner le dataset suivant : 
+    
+
 
 ## Prétraitements sous R
  - Ouvrez le logiciel R, importez votre fichier CSV prétraiter par OpenRefine 
@@ -103,12 +131,4 @@ L'objectif est de transposer les colonnes en lignes. Il va falloir choisir l'ens
  ```R
   write.csv(FINAL_DATA,"~/<Chemin>/<nom_dataset_ANNEE>.csv")
  ```
- # Contributors
- - Amine Boulahmel amine.boulahmel@etud.univ-nantes.fr
- - Matthieu Juzdzewski matthieu.juzdzewski@etud.univ-nantes.fr
- - Harry Jandu harry.jandu@etud.univ-nantes.fr
- # License & copyright
- - © Amine Boulahmel, Université de Nantes
- - © Matthieu Juzdzewski, Université de Nantes
- - © Harry Jandu, Université de Nantes
- - Licensed under the [MIT License](LICENSE).
+ 
