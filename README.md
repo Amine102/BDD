@@ -111,4 +111,4 @@ L'objectif est de transposer les colonnes en lignes. Il va falloir choisir l'ens
  - © Amine Boulahmel, Université de Nantes
  - © Matthieu Juzdzewski, Université de Nantes
  - © Harry Jandu, Université de Nantes
- Licensed under the [MIT License](LICENSE).
+ - Licensed under the [MIT License](LICENSE).
