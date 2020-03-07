@@ -58,7 +58,7 @@ Il faut maintenant créer la colonne catégorie. Pour cela, il va falloir utilis
  
  C'est terminé, le nettoyage et la transformation sur OpenRefine devraient vous donner le dataset suivant : 
     
-
+![ETAPE13_FINAL](https://user-images.githubusercontent.com/34581620/76154095-d588c680-60d6-11ea-892f-9e2a83544eda.jpg)
 
 ## Prétraitements sous R
  - Ouvrez le logiciel R, importez votre fichier CSV prétraiter par OpenRefine 
