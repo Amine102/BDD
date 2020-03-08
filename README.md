@@ -135,11 +135,9 @@ Il faut maintenant créer la colonne catégorie. Pour cela, il va falloir utilis
   write.csv(FINAL_DATA,"~/<Chemin>/<nom_dataset_ANNEE>.csv")
  ```
  # Contributors
- - Amine Boulahmel amine.boulahmel@etud.univ-nantes.fr
- - Matthieu Juzdzewski matthieu.juzdzewski@etud.univ-nantes.fr
- - Harry Jandu harry.jandu@etud.univ-nantes.fr
+ - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
+ - Matthieu Juzdzewski matthieu.juzdzewski@etu.univ-nantes.fr
+ - Harry Jandu harry.jandu@etu.univ-nantes.fr
  # License & copyright
- - © Amine Boulahmel, Université de Nantes
- - © Matthieu Juzdzewski, Université de Nantes
- - © Harry Jandu, Université de Nantes
+ - Copyright © 2020 [Amine Boulahmel](https://github.com/Amine102),  [Matthieu Juzdzewski](https://github.com/juzdzewski), Harry Jandu.
  - Licensed under the [MIT License](LICENSE).
