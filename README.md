@@ -139,6 +139,8 @@ Il faut maintenant créer la colonne *Catégorie*. Pour cela, il va falloir util
  ## Création de la DTD
  La DTD a été écrite selon les modèles et exercices vus en cours et TD. Elle correspond au schéma en étoile que nous avions déjà déterminé précédemment et dont voici la représentation : 
  
+ ![image](https://user-images.githubusercontent.com/34581620/76176564-8fecfc00-61b1-11ea-8587-240d57100069.png)
+ 
  Voici le code de la DTD correspondante (ce code se trouve également dans le dossier **Code Source** de ce git) : 
  
  ```
