@@ -134,6 +134,34 @@ Il faut maintenant créer la colonne *Catégorie*. Pour cela, il va falloir util
  ```R
   write.csv(FINAL_DATA,"~/<Chemin>/<nom_dataset_ANNEE>.csv")
  ```
+ # Construction de l'entrepôt de données
+ Nous avons maintenant notre .csv correctement nettoyé et transformé selon nos besoins. Il va falloir à présent déterminer le format des données de notre entrepôt. Nous avons choisi le XML. La première étape consiste donc à écrire la Définition de Type de Document (ou DTD).
+ ## Création de la DTD
+ La DTD a été écrite selon les modèles et exercices vus en cours et TD. Elle correspond au schéma en étoile que nous avions déjà déterminé précédemment et dont voici la représentation : 
+ 
+ Voici le code de la DTD correspondante (ce code se trouve également dans le dossier **Code Source** de ce git) : 
+ 
+ ```
+ <!ELEMENT dataset (ligne*)>
+    <!ELEMENT ligne (date,localisation,categorie,genre,salaire)>
+    <!ATTLIST ligne id CDATA #REQUIRED> 
+    <!ELEMENT localisation (codePostal,ville,departement,region,codeDep)>
+    <!ELEMENT categorie EMPTY>
+        <!ATTLIST categorie nom (cadre|profession|employé|ouvrier) #REQUIRED>
+    <!ELEMENT genre EMPTY>
+        <!ATTLIST genre nom (Femme|Homme) #REQUIRED>
+    <!ELEMENT date EMPTY>
+        <!ATTLIST date annee (2012|2013|2014|2015|2016) #REQUIRED>
+    <!ELEMENT salaire (#PCDATA)>
+    <!ELEMENT codePostal (#PCDATA)>
+    <!ELEMENT ville (#PCDATA)>
+    <!ELEMENT departement (#PCDATA)>
+    <!ELEMENT region (#PCDATA)>
+    <!ELEMENT codeDep (#PCDATA)>
+ ```
+ 
+ ## Conversion du fichier .csv au format .XML
+ 
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
  - Matthieu Juzdzewski matthieu.juzdzewski@etu.univ-nantes.fr
