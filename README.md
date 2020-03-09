@@ -36,7 +36,7 @@ L'objectif est de transposer les colonnes en lignes. Il va falloir choisir l'ens
 
 2. *Création de la colonne Categorie*
 
-Il faut maintenant créer la colonne catégorie. Pour cela, il va falloir utiliser le langage GREL :
+Il faut maintenant créer la colonne *Catégorie*. Pour cela, il va falloir utiliser le langage GREL :
    
    - Cliquez sur la colonne qui concentre les informations de genre et catégorie
    - Choisissez *add column based on this column*
@@ -50,10 +50,10 @@ Il faut maintenant créer la colonne catégorie. Pour cela, il va falloir utilis
  
  3. *Création de la colonne Genre*
  
- Il faut maintenant créer la colonne catégorie. Pour cela, il va falloir utiliser le langage GREL à nouveau. Le principe est le même que précédemment.
+ Il faut maintenant créer la colonne *Genre*. Pour cela, il va falloir utiliser le langage GREL à nouveau. Le principe est le même que précédemment.
     - Cliquez sur la colonne qui concentre les informations de genre et catégorie
    - Choisissez *add column based on this column*
-   - Nommez la colonne *Catégorie*
+   - Nommez la colonne *Genre*
    - Entrez le code GREL suivant :
    ``` 
  if(contains(value,"MF"), "Femme", "Homme")
