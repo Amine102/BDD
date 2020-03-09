@@ -1,0 +1,16 @@
+<!ELEMENT dataset (ligne*)>
+   <!ELEMENT ligne (date,localisation,categorie,genre,salaire)>
+   <!ATTLIST ligne id CDATA #REQUIRED> 
+   <!ELEMENT localisation (codePostal,ville,departement,region,codeDep)>
+   <!ELEMENT categorie EMPTY>
+       <!ATTLIST categorie nom (cadre|profession|employé|ouvrier) #REQUIRED>
+   <!ELEMENT genre EMPTY>
+       <!ATTLIST genre nom (Femme|Homme) #REQUIRED>
+   <!ELEMENT date EMPTY>
+       <!ATTLIST date annee (2012|2013|2014|2015|2016) #REQUIRED>
+   <!ELEMENT salaire (#PCDATA)>
+   <!ELEMENT codePostal (#PCDATA)>
+   <!ELEMENT ville (#PCDATA)>
+   <!ELEMENT departement (#PCDATA)>
+   <!ELEMENT region (#PCDATA)>
+   <!ELEMENT codeDep (#PCDATA)>
