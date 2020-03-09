@@ -167,6 +167,11 @@ Il faut maintenant créer la colonne *Catégorie*. Pour cela, il va falloir util
  
 ![image](https://user-images.githubusercontent.com/34581620/76177489-b2ccdf80-61b4-11ea-9af7-3fe489c794a2.png)
 
+Voici le code Java correspondant (qui se trouve également dans le dossier **Code Source** de ce git). Ce code ne fait que retranscrire **exactement** le schéma précedent, mais de manière à être compréhensible par la JVM JAVA. Il s'agit simplement de lire le .csv d'un coté, ligne par ligne, et d'écrire dans le .xml selon le modèle ci-dessus :
+
+```
+
+```
  
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
