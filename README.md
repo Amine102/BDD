@@ -165,6 +165,7 @@ Il faut maintenant créer la colonne *Catégorie*. Pour cela, il va falloir util
  ## Conversion du fichier .csv au format .XML
  Maintenant que nous avons la DTD, nous savons quelle organisation nous souhaitons obtenir pour notre .xml. Il ne reste plus qu'à trouver un moyen de *mapper* les champs de notre .csv pour créer le fichier XML. Pour ce faire, nous avons écrit un programme Java spécifiquement destiné à faire ce travail. Ce programme va lire ligne par ligne le fichier .csv et créer le fichier XML section par section en utilisant le modèle suivant, qui correspont à la DTD : 
  
+![image](https://user-images.githubusercontent.com/34581620/76177489-b2ccdf80-61b4-11ea-9af7-3fe489c794a2.png)
 
  
  # Contributors
