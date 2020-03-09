@@ -224,6 +224,7 @@ public class ParserCSVXML {
 	}
 }
 ```
+C'est terminé, le fichier XML est créé et correspond bien à la DTD. Nous sommes prêts à écrire nos requêtes.
  
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
