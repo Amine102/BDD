@@ -233,5 +233,5 @@ C'est terminé, le fichier XML est créé et correspond bien à la DTD. Nous som
  - Matthieu Juzdzewski matthieu.juzdzewski@etu.univ-nantes.fr
  - Harry Jandu harry.jandu@etu.univ-nantes.fr
  # License & copyright
- - Copyright © 2020 [Amine Boulahmel](https://github.com/Amine102),  [Matthieu Juzdzewski](https://github.com/juzdzewski), Harry Jandu.
+ - Copyright © 2020 [Amine Boulahmel](https://github.com/Amine102),  [Matthieu Juzdzewski](https://github.com/juzdzewski), [Harry Jandu](https://github.com/hushee69).
  - Licensed under the [MIT License](LICENSE).
