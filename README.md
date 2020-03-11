@@ -226,8 +226,14 @@ public class ParserCSVXML {
 	}
 }
 ```
-C'est terminé, le fichier XML est créé et correspond bien à la DTD. Nous sommes prêts à écrire nos requêtes.
- 
+C'est terminé, le fichier XML et est prêt à être validé en utilisant le fichier dataValidator.xml générer à partir de la DTD.
+Pour celà, nous utilsons l'invite de commande et exécutons le script suivant:
+
+```shell
+xmllint --schema data.xsd XML_FINAL.xml
+```
+La commande devra retourner "XML_FINAL.xml validates" comme résultat.
+
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
  - Matthieu Juzdzewski matthieu.juzdzewski@etu.univ-nantes.fr
