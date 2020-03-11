@@ -149,7 +149,7 @@ Il faut maintenant créer la colonne *Catégorie*. Pour cela, il va falloir util
     <!ATTLIST ligne id CDATA #REQUIRED> 
     <!ELEMENT localisation (codePostal,ville,departement,region,codeDep)>
     <!ELEMENT categorie EMPTY>
-        <!ATTLIST categorie nom (cadre|profession|employé|ouvrier) #REQUIRED>
+        <!ATTLIST categorie nom (Cadre|Profession|Employé|Ouvrier) #REQUIRED>
     <!ELEMENT genre EMPTY>
         <!ATTLIST genre nom (Femme|Homme) #REQUIRED>
     <!ELEMENT date EMPTY>
