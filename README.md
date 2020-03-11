@@ -2,6 +2,7 @@
 # Prérequis
 - OpenRefine: https://openrefine.org/download.html
 - Rstudio: https://rstudio.com/products/rstudio/download/
+- XMLStarlet: http://xmlstar.sourceforge.net/download.php
 # Préparation des données 
 ## Prétraitements sous OpenRefine
 > :warning: **On suppose qu'OpenRefine est  déjà installé**
