@@ -228,9 +228,9 @@ public class ParserCSVXML {
 }
 ```
 C'est terminé, le fichier XML et est prêt à être validé en utilisant le fichier dataValidator.xml générer à partir de la DTD.
-Pour celà, nous utilsons l'invite de commande et exécutons le script suivant:
+Pour celà, nous utilsons l'invite de commande et exécutons le script suivant: (nécessite l'installation de xmlstarlet)
 
-```shell
+```Bash
 xmllint --schema data.xsd XML_FINAL.xml
 ```
 La commande devra retourner "XML_FINAL.xml validates" comme résultat.
