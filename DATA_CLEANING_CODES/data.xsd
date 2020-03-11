@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="dataset">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ligne"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ligne">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="date"/>
+        <xs:element ref="localisation"/>
+        <xs:element ref="categorie"/>
+        <xs:element ref="genre"/>
+        <xs:element ref="salaire"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="attlist.ligne"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.ligne">
+    <xs:attribute name="id" use="required"/>
+  </xs:attributeGroup>
+  <xs:element name="localisation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="codePostal"/>
+        <xs:element ref="ville"/>
+        <xs:element ref="departement"/>
+        <xs:element ref="region"/>
+        <xs:element ref="codeDep"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="categorie">
+    <xs:complexType>
+      <xs:attributeGroup ref="attlist.categorie"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.categorie">
+    <xs:attribute name="nom" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="Cadre"/>
+          <xs:enumeration value="Profession"/>
+          <xs:enumeration value="Employé"/>
+          <xs:enumeration value="Ouvrier"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:element name="genre">
+    <xs:complexType>
+      <xs:attributeGroup ref="attlist.genre"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.genre">
+    <xs:attribute name="nom" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="Femme"/>
+          <xs:enumeration value="Homme"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:element name="date">
+    <xs:complexType>
+      <xs:attributeGroup ref="attlist.date"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.date">
+    <xs:attribute name="annee" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="2012"/>
+          <xs:enumeration value="2013"/>
+          <xs:enumeration value="2014"/>
+          <xs:enumeration value="2015"/>
+          <xs:enumeration value="2016"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:element name="salaire" type="xs:string"/>
+  <xs:element name="codePostal" type="xs:string"/>
+  <xs:element name="ville" type="xs:string"/>
+  <xs:element name="departement" type="xs:string"/>
+  <xs:element name="region" type="xs:string"/>
+  <xs:element name="codeDep" type="xs:string"/>
+</xs:schema>
