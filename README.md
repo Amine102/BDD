@@ -3,6 +3,7 @@
 - OpenRefine: https://openrefine.org/download.html
 - Rstudio: https://rstudio.com/products/rstudio/download/
 - XMLStarlet: http://xmlstar.sourceforge.net/download.php
+- XSLT 2.0: https://sourceforge.net/projects/saxon/
 # Préparation des données 
 ## Prétraitements sous OpenRefine
 > :warning: **On suppose qu'OpenRefine est  déjà installé**
