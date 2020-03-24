@@ -241,6 +241,14 @@ La commande devra retourner "XML_FINAL.xml validates" comme résultat.
 Nous avons réalisé nos requêtes en **XSLT 2.0**. Cette version permet d'utiliser des fonctionalités comme le *group by* par exemple. Pour pouvoir l'utiliser, il faut télécharger le fichier .jar *SAXON* qui est disponible dans la partie **Prérequis** de cet article.
 
 ## Requête n°1 : 
+## Requête n°2 :
+## Requête n°3 :
+## Requête n°4 :
+## Requête n°5 :
+## Requête n°6 :
+## Requête n°7 :
+## Requête n°8 :
+## Requête n°9 :
 
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
