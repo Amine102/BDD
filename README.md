@@ -236,6 +236,10 @@ xmllint --schema data.xsd XML_FINAL.xml
 ```
 La commande devra retourner "XML_FINAL.xml validates" comme résultat.
 
+# Requêtes en XSLT 2.0
+
+Nous avons réalisé nos requêtes en **XSLT 2.0**. Cette version permet d'utiliser des fonctionalités comme le *group by* par exemple. Pour pouvoir l'utiliser, il faut télécharger le fichier .jar *SAXON* qui est disponible dans la partie **Prérequis** de cet article.
+
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
  - Matthieu Juzdzewski matthieu.juzdzewski@etu.univ-nantes.fr
