@@ -256,6 +256,8 @@ Ci-dessous une capture d'écran de la représentation graphique du résultat de 
 
 ![image](https://user-images.githubusercontent.com/34581620/77576499-98457680-6ed5-11ea-8293-742f6478f2da.png)
 
+On constate sans surprise que la région Île-de-France est la plus attractive en termes de salaire pour les cadres. Plus surprenant, notre région Pays de la Loire fait partie des régions où le salaire pour un cadre est le plus bas.
+
 ## Requête n°2 :
 ## Requête n°3 :
 ## Requête n°4 :
