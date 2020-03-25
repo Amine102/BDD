@@ -246,6 +246,8 @@ Toutes les requêtes suivantes sont disponibles sous forme **.xsl** dans le doss
 L'objectif de cette requête est de donner, pour chaque région, la moyenne des salaires pour chaque catégorie socio-professionnelle.
 Voici le code *.xsl* ainsi qu'un extrait du résultat sous forme de table HTML.
 
+### Code .xsl
+
 ``` XSLT
 <?xml version='1.0' encoding='UTF-8'?>
 <xsl:stylesheet version="1.0" 
@@ -274,6 +276,10 @@ Voici le code *.xsl* ainsi qu'un extrait du résultat sous forme de table HTML.
 	</xsl:template>
 </xsl:stylesheet>
 ```
+
+### Extrait html
+
+![image](https://user-images.githubusercontent.com/34581620/77568730-5dd5dc80-6ec9-11ea-8457-07588806c399.png)
 
 ## Requête n°2 :
 ## Requête n°3 :
