@@ -259,6 +259,9 @@ Ci-dessous une capture d'écran de la représentation graphique du résultat de 
 On constate sans surprise que la région Île-de-France est la plus attractive en termes de salaire pour les cadres. Plus surprenant, notre région Pays de la Loire fait partie des régions où le salaire pour un cadre est le plus bas.
 
 ## Requête n°2 :
+
+L'objectif de cette requête est de donner, pour chaque ville et chaque catégorie socio-professionnelle, la différence de salaire (en pourcentage) entre les hommes et les femmes. Le code *.xsl* se trouve dans le dossier **QUERIES**. Voici un extrait du résultat sous forme de table HTML.
+
 ## Requête n°3 :
 ## Requête n°4 :
 ## Requête n°5 :
