@@ -252,7 +252,7 @@ Le code *.xsl* se trouve dans le dossier **QUERIES**. Voici un extrait du résul
 
 ### Représentation graphique
 
-Ci-dessous une capture d'écran de la représentation graphique du résultat de la requête. Comme le résultat est trop grand pour s'afficher entièrement sur cette image, vous pouvez aller voir l'ensemble du graphique sur le lien suivant : https://public.tableau.com/profile/boulahmel#!/vizhome/SalaireparsexecagoriesocioProfessionnelleetrgion/Sheet2?publish=yes 
+Ci-dessous une capture d'écran de la représentation graphique du résultat de la requête. Comme le résultat est trop grand pour s'afficher entièrement sur cette image, vous pouvez aller voir l'ensemble du graphique sur le lien suivant : https://public.tableau.com/profile/boulahmel#!/vizhome/salairemoyenparregionetcategoriesocio-professionnelleen2016/Sheet2?publish=yes
 
 ![image](https://user-images.githubusercontent.com/34581620/77576499-98457680-6ed5-11ea-8293-742f6478f2da.png)
 
