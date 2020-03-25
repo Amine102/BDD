@@ -262,6 +262,10 @@ On constate sans surprise que la région Île-de-France est la plus attractive e
 
 L'objectif de cette requête est de donner, pour chaque ville et chaque catégorie socio-professionnelle, la différence de salaire (en pourcentage) entre les hommes et les femmes. Le code *.xsl* se trouve dans le dossier **QUERIES**. Voici un extrait du résultat sous forme de table HTML.
 
+### Extrait html
+
+![image](https://user-images.githubusercontent.com/34581620/77578096-3b978b00-6ed8-11ea-9e2c-7de9bdd9561a.png)
+
 ## Requête n°3 :
 ## Requête n°4 :
 ## Requête n°5 :
