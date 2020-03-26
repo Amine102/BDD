@@ -298,6 +298,11 @@ L'objectif de cette requête est de montrer les salaires moyens par région et c
 
 ### Représentation graphique
 
+Voici la représentation graphique du résultat. Vous trouverez le document complet sur le lien suivant :
+https://public.tableau.com/profile/boulahmel#!/vizhome/Salairesmoyensparrgionsetcatgoriessocio-professionnellesentre2012et2016/Sheet1?publish=yes
+
+![image](https://user-images.githubusercontent.com/34581620/77691701-ad89d600-6fa5-11ea-931d-020fce9d2d49.png)
+
 ## Requête n°5 :
 ## Requête n°6 :
 
