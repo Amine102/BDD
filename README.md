@@ -284,6 +284,10 @@ L'objectif de cette requête est de montrer le salaire moyen des hommes et des f
 
 ### Représentation graphique
 
+Voici la représentation graphique du résultat :
+
+![image](https://user-images.githubusercontent.com/34581620/77690257-4b2fd600-6fa3-11ea-8dbd-b1309863e088.png)
+
 ## Requête n°4 :
 ## Requête n°5 :
 ## Requête n°6 :
