@@ -269,7 +269,8 @@ L'objectif de cette requête est de donner, pour chaque ville et chaque catégor
 
 ### Représentation graphique
 
-Ci-dessous une capture d'écran de la représentation graphique du résultat de la requête. Comme le résultat est trop grand pour s'afficher entièrement sur cette image, vous pouvez aller voir l'ensemble du graphique sur les liens suivants :
+Ci-dessous une capture d'écran de la représentation graphique du résultat de la requête. Comme le résultat est trop grand pour s'afficher entièrement sur cette image, vous pouvez aller voir l'ensemble du graphique sur le lien suivant :
+https://public.tableau.com/profile/boulahmel#!/vizhome/Diffrencedesalaireenpourcentageentreleshommesetlesfemmespourchaquevilleen2016/Sheet1?publish=yes
 
 ![image](https://user-images.githubusercontent.com/34581620/77684407-40bd0e80-6f9a-11ea-8a1d-5a44b7235b6f.png)
 
