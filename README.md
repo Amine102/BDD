@@ -275,6 +275,15 @@ https://public.tableau.com/profile/boulahmel#!/vizhome/Diffrencedesalaireenpourc
 ![image](https://user-images.githubusercontent.com/34581620/77684407-40bd0e80-6f9a-11ea-8a1d-5a44b7235b6f.png)
 
 ## Requête n°3 :
+
+L'objectif de cette requête est de montrer le salaire moyen des hommes et des femms pour chaque année entre 2012 et 2016. Voici le résultat sous forme de table HTML.
+
+### Résultat html
+
+![image](https://user-images.githubusercontent.com/34581620/77686866-dad28600-6f9d-11ea-8da1-18f542fff69a.png)
+
+### Représentation graphique
+
 ## Requête n°4 :
 ## Requête n°5 :
 ## Requête n°6 :
