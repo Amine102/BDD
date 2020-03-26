@@ -24,7 +24,7 @@
 								<xsl:variable name="homme_total" select="sum(current-group()[genre/@nom = 'Homme']/salaire)" />
 								<xsl:variable name="femme_total" select="sum(current-group()[genre/@nom = 'Femme']/salaire)" />
 								<xsl:variable name="total" select="$homme_total + $femme_total" />
-								<td><xsl:value-of select="format-number(((abs($homme_total - $femme_total) div $total) * 100), '#.##')" /></td>
+								<td><xsl:value-of select="format-number(((($homme_total - $femme_total) div $total) * 100), '#.##')" /></td>
 							</tr>
 						</xsl:for-each-group>					
 				</xsl:for-each-group>
