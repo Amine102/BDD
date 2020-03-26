@@ -289,6 +289,15 @@ Voici la représentation graphique du résultat :
 ![image](https://user-images.githubusercontent.com/34581620/77690257-4b2fd600-6fa3-11ea-8dbd-b1309863e088.png)
 
 ## Requête n°4 :
+
+L'objectif de cette requête est de montrer les salaires moyens par région et catégorie socio-professionnelle entre 2012 et 2016. La requête est similaire à la requête 1, à ceci près que cette fois nous avons les données pour **chaque** année. Voici un extrait du résultat HTML.
+
+### Extrait html
+
+![image](https://user-images.githubusercontent.com/34581620/77691122-aa421a80-6fa4-11ea-950f-ec22cef75728.png)
+
+### Représentation graphique
+
 ## Requête n°5 :
 ## Requête n°6 :
 
