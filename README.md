@@ -281,7 +281,7 @@ https://public.tableau.com/profile/boulahmel#!/vizhome/Diffrencedesalaireentreun
 ## Requête n°5 :
 ## Requête n°6 :
 
-L'objectif de cette requête est de montrer l'évolution globale de salaire, par genre, entre 2012 et 2016. Le code *.xsl* se trouve dans le dossier **QUERIES**. Voici le résultat obtenu sous forme de table HTML.
+L'objectif de cette requête est de montrer l'évolution globale de salaire (en %), par genre, entre 2012 et 2016. Le code *.xsl* se trouve dans le dossier **QUERIES**. Voici le résultat obtenu sous forme de table HTML.
 
 ### Résultat html
 
@@ -290,6 +290,8 @@ L'objectif de cette requête est de montrer l'évolution globale de salaire, par
 ### Représentation graphique
 
 Voici les courbes d'évolution des salaires entre 2012 et 2016. La courbe en bleu correspond à l'évolution du salaire des femmes. L'autre courbe correspond à l'évolution du salaire des hommes.
+
+![image](https://user-images.githubusercontent.com/34581620/77674863-7ce97280-6f8c-11ea-8aa1-29f63388c479.png)
 
 ## Requête n°7 :
 ## Requête n°8 :
