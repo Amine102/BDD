@@ -1,3 +1,4 @@
 # Read me
 
-Ce dossier contient les fichier *.csv* modifiés (au niveau de la structure des données) afin de pouvoir générer les graphiques présents sur le Readme principal.
+Afin de pouvoir générer les graphiques présents sur Readme de la page principale, nous avons du transformer le résultat de nos requête en fichiers *.csv*. Ce dossier contient donc l'ensemble des fichiers *.csv* issus de nos requêtes.
+
