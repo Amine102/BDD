@@ -269,12 +269,8 @@ L'objectif de cette requête est de donner, pour chaque ville et chaque catégor
 ### Représentation graphique
 
 Ci-dessous une capture d'écran de la représentation graphique du résultat de la requête. Comme le résultat est trop grand pour s'afficher entièrement sur cette image, vous pouvez aller voir l'ensemble du graphique sur les liens suivants :
-https://public.tableau.com/profile/boulahmel#!/vizhome/Diffrencedesalaireentreunhommeetunefemmeparvillepourlescadresen2016/Sheet1
-https://public.tableau.com/profile/boulahmel#!/vizhome/DiffrencedesalaireentreunhommeetunefemmeparvillepourlesEmploysesen2016/Sheet1
-https://public.tableau.com/profile/boulahmel#!/vizhome/Diffrencedesalaireentreunhommeetunefemmeparvillepourlesouvriersesen2016/Sheet1?publish=yes
-https://public.tableau.com/profile/boulahmel#!/vizhome/Diffrencedesalaireentreunhommeetunefemmeparvillepourlesprofessionsintermdiairesen2016/Sheet1?publish=yes
 
-![image](https://user-images.githubusercontent.com/34581620/77597516-6c3eeb00-6eff-11ea-94c3-2ad6bbac587c.png)
+![image](https://user-images.githubusercontent.com/34581620/77684407-40bd0e80-6f9a-11ea-8a1d-5a44b7235b6f.png)
 
 ## Requête n°3 :
 ## Requête n°4 :
