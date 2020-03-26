@@ -294,7 +294,7 @@ L'objectif de cette requête est de montrer les salaires moyens par région et c
 
 ### Extrait html
 
-![image](https://user-images.githubusercontent.com/34581620/77691122-aa421a80-6fa4-11ea-950f-ec22cef75728.png)
+![image](https://user-images.githubusercontent.com/34581620/77691580-79aeb080-6fa5-11ea-9d6b-c5df2622e165.png)
 
 ### Représentation graphique
 
