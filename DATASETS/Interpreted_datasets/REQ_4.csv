@@ -1,0 +1,341 @@
+ region, catégorie, année, salaire 
+Auvergne-Rhône-Alpes,Cadre,2012,22.125
+Auvergne-Rhône-Alpes,Profession,2012,14.183
+Auvergne-Rhône-Alpes,Employé,2012,10.623
+Auvergne-Rhône-Alpes,Ouvrier,2012,10.528
+Hauts-de-France,Cadre,2012,21.033
+Hauts-de-France,Profession,2012,13.808
+Hauts-de-France,Employé,2012,10.292
+Hauts-de-France,Ouvrier,2012,10.349
+Provence-Alpes-Côte d'Azur,Cadre,2012,22.425
+Provence-Alpes-Côte d'Azur,Profession,2012,14.236
+Provence-Alpes-Côte d'Azur,Employé,2012,10.439
+Provence-Alpes-Côte d'Azur,Ouvrier,2012,10.374
+Grand Est,Cadre,2012,21.479
+Grand Est,Profession,2012,13.891
+Grand Est,Employé,2012,10.234
+Grand Est,Ouvrier,2012,10.412
+Occitanie,Cadre,2012,21.065
+Occitanie,Profession,2012,13.644
+Occitanie,Employé,2012,10.102
+Occitanie,Ouvrier,2012,10.132
+Normandie,Cadre,2012,21.774
+Normandie,Profession,2012,14.016
+Normandie,Employé,2012,10.217
+Normandie,Ouvrier,2012,10.406
+Nouvelle-Aquitaine,Cadre,2012,21.239
+Nouvelle-Aquitaine,Profession,2012,13.635
+Nouvelle-Aquitaine,Employé,2012,10.182
+Nouvelle-Aquitaine,Ouvrier,2012,10.008
+Centre-Val de Loire,Cadre,2012,21.785
+Centre-Val de Loire,Profession,2012,14.012
+Centre-Val de Loire,Employé,2012,10.424
+Centre-Val de Loire,Ouvrier,2012,10.423
+Bourgogne-Franche-Comté,Cadre,2012,21.09
+Bourgogne-Franche-Comté,Profession,2012,13.684
+Bourgogne-Franche-Comté,Employé,2012,10.101
+Bourgogne-Franche-Comté,Ouvrier,2012,10.259
+Bretagne,Cadre,2012,20.823
+Bretagne,Profession,2012,13.454
+Bretagne,Employé,2012,10.117
+Bretagne,Ouvrier,2012,10.022
+Corse,Cadre,2012,20.618
+Corse,Profession,2012,14.007
+Corse,Employé,2012,10.054
+Corse,Ouvrier,2012,9.777
+Pays de la Loire,Cadre,2012,20.626
+Pays de la Loire,Profession,2012,13.403
+Pays de la Loire,Employé,2012,10.258
+Pays de la Loire,Ouvrier,2012,10.145
+Île-de-France,Cadre,2012,24.671
+Île-de-France,Profession,2012,15.569
+Île-de-France,Employé,2012,11.635
+Île-de-France,Ouvrier,2012,11.64
+Guadeloupe,Cadre,2012,23.362
+Guadeloupe,Profession,2012,14.788
+Guadeloupe,Employé,2012,10.817
+Guadeloupe,Ouvrier,2012,9.99
+Martinique,Cadre,2012,24.169
+Martinique,Profession,2012,14.762
+Martinique,Employé,2012,10.515
+Martinique,Ouvrier,2012,10.071
+Guyane,Cadre,2012,24.733
+Guyane,Profession,2012,15.833
+Guyane,Employé,2012,10.95
+Guyane,Ouvrier,2012,10.022
+La Réunion,Cadre,2012,22.311
+La Réunion,Profession,2012,14.287
+La Réunion,Employé,2012,10.124
+La Réunion,Ouvrier,2012,9.783
+Auvergne-Rhône-Alpes,Cadre,2013,22.749
+Auvergne-Rhône-Alpes,Profession,2013,14.435
+Auvergne-Rhône-Alpes,Employé,2013,10.878
+Auvergne-Rhône-Alpes,Ouvrier,2013,10.726
+Hauts-de-France,Cadre,2013,21.498
+Hauts-de-France,Profession,2013,14.073
+Hauts-de-France,Employé,2013,10.508
+Hauts-de-France,Ouvrier,2013,10.428
+Provence-Alpes-Côte d'Azur,Cadre,2013,22.895
+Provence-Alpes-Côte d'Azur,Profession,2013,14.451
+Provence-Alpes-Côte d'Azur,Employé,2013,10.68
+Provence-Alpes-Côte d'Azur,Ouvrier,2013,10.523
+Grand Est,Cadre,2013,22.082
+Grand Est,Profession,2013,14.048
+Grand Est,Employé,2013,10.413
+Grand Est,Ouvrier,2013,10.481
+Occitanie,Cadre,2013,21.624
+Occitanie,Profession,2013,13.879
+Occitanie,Employé,2013,10.341
+Occitanie,Ouvrier,2013,10.228
+Normandie,Cadre,2013,22.27
+Normandie,Profession,2013,14.266
+Normandie,Employé,2013,10.416
+Normandie,Ouvrier,2013,10.528
+Nouvelle-Aquitaine,Cadre,2013,21.846
+Nouvelle-Aquitaine,Profession,2013,13.877
+Nouvelle-Aquitaine,Employé,2013,10.394
+Nouvelle-Aquitaine,Ouvrier,2013,10.162
+Centre-Val de Loire,Cadre,2013,22.378
+Centre-Val de Loire,Profession,2013,14.234
+Centre-Val de Loire,Employé,2013,10.646
+Centre-Val de Loire,Ouvrier,2013,10.558
+Bourgogne-Franche-Comté,Cadre,2013,21.669
+Bourgogne-Franche-Comté,Profession,2013,13.812
+Bourgogne-Franche-Comté,Employé,2013,10.363
+Bourgogne-Franche-Comté,Ouvrier,2013,10.363
+Bretagne,Cadre,2013,21.313
+Bretagne,Profession,2013,13.689
+Bretagne,Employé,2013,10.33
+Bretagne,Ouvrier,2013,10.185
+Corse,Cadre,2013,20.755
+Corse,Profession,2013,14.805
+Corse,Employé,2013,10.182
+Corse,Ouvrier,2013,9.945
+Pays de la Loire,Cadre,2013,21.162
+Pays de la Loire,Profession,2013,13.579
+Pays de la Loire,Employé,2013,10.448
+Pays de la Loire,Ouvrier,2013,10.28
+Île-de-France,Cadre,2013,25.031
+Île-de-France,Profession,2013,15.842
+Île-de-France,Employé,2013,11.899
+Île-de-France,Ouvrier,2013,11.942
+Guadeloupe,Cadre,2013,23.35
+Guadeloupe,Profession,2013,15.035
+Guadeloupe,Employé,2013,10.944
+Guadeloupe,Ouvrier,2013,9.928
+Martinique,Cadre,2013,23.956
+Martinique,Profession,2013,15.094
+Martinique,Employé,2013,10.687
+Martinique,Ouvrier,2013,10.141
+Guyane,Cadre,2013,25.1
+Guyane,Profession,2013,16.25
+Guyane,Employé,2013,11.35
+Guyane,Ouvrier,2013,10.189
+La Réunion,Cadre,2013,22.252
+La Réunion,Profession,2013,14.344
+La Réunion,Employé,2013,10.296
+La Réunion,Ouvrier,2013,9.729
+Auvergne-Rhône-Alpes,Cadre,2014,23.2
+Auvergne-Rhône-Alpes,Profession,2014,14.563
+Auvergne-Rhône-Alpes,Employé,2014,11.041
+Auvergne-Rhône-Alpes,Ouvrier,2014,10.874
+Hauts-de-France,Cadre,2014,21.893
+Hauts-de-France,Profession,2014,14.199
+Hauts-de-France,Employé,2014,10.64
+Hauts-de-France,Ouvrier,2014,10.5
+Provence-Alpes-Côte d'Azur,Cadre,2014,23.225
+Provence-Alpes-Côte d'Azur,Profession,2014,14.718
+Provence-Alpes-Côte d'Azur,Employé,2014,10.803
+Provence-Alpes-Côte d'Azur,Ouvrier,2014,10.672
+Grand Est,Cadre,2014,22.433
+Grand Est,Profession,2014,14.188
+Grand Est,Employé,2014,10.54
+Grand Est,Ouvrier,2014,10.599
+Occitanie,Cadre,2014,21.893
+Occitanie,Profession,2014,13.989
+Occitanie,Employé,2014,10.424
+Occitanie,Ouvrier,2014,10.244
+Normandie,Cadre,2014,22.847
+Normandie,Profession,2014,14.363
+Normandie,Employé,2014,10.512
+Normandie,Ouvrier,2014,10.641
+Nouvelle-Aquitaine,Cadre,2014,22.234
+Nouvelle-Aquitaine,Profession,2014,13.98
+Nouvelle-Aquitaine,Employé,2014,10.482
+Nouvelle-Aquitaine,Ouvrier,2014,10.246
+Centre-Val de Loire,Cadre,2014,22.721
+Centre-Val de Loire,Profession,2014,14.374
+Centre-Val de Loire,Employé,2014,10.74
+Centre-Val de Loire,Ouvrier,2014,10.655
+Bourgogne-Franche-Comté,Cadre,2014,22.065
+Bourgogne-Franche-Comté,Profession,2014,13.93
+Bourgogne-Franche-Comté,Employé,2014,10.469
+Bourgogne-Franche-Comté,Ouvrier,2014,10.444
+Bretagne,Cadre,2014,21.712
+Bretagne,Profession,2014,13.799
+Bretagne,Employé,2014,10.479
+Bretagne,Ouvrier,2014,10.258
+Corse,Cadre,2014,21.471
+Corse,Profession,2014,15.021
+Corse,Employé,2014,10.352
+Corse,Ouvrier,2014,9.955
+Pays de la Loire,Cadre,2014,21.583
+Pays de la Loire,Profession,2014,13.671
+Pays de la Loire,Employé,2014,10.577
+Pays de la Loire,Ouvrier,2014,10.397
+Île-de-France,Cadre,2014,25.629
+Île-de-France,Profession,2014,16.04
+Île-de-France,Employé,2014,12.084
+Île-de-France,Ouvrier,2014,12.089
+Guadeloupe,Cadre,2014,23.973
+Guadeloupe,Profession,2014,15.273
+Guadeloupe,Employé,2014,11.098
+Guadeloupe,Ouvrier,2014,10.069
+Martinique,Cadre,2014,24.293
+Martinique,Profession,2014,15.207
+Martinique,Employé,2014,10.793
+Martinique,Ouvrier,2014,10.176
+Guyane,Cadre,2014,25.25
+Guyane,Profession,2014,15.988
+Guyane,Employé,2014,11.219
+Guyane,Ouvrier,2014,10.156
+La Réunion,Cadre,2014,22.737
+La Réunion,Profession,2014,14.485
+La Réunion,Employé,2014,10.415
+La Réunion,Ouvrier,2014,9.822
+Auvergne-Rhône-Alpes,Cadre,2015,23.305
+Auvergne-Rhône-Alpes,Profession,2015,14.579
+Auvergne-Rhône-Alpes,Employé,2015,11.062
+Auvergne-Rhône-Alpes,Ouvrier,2015,10.965
+Hauts-de-France,Cadre,2015,22.069
+Hauts-de-France,Profession,2015,14.188
+Hauts-de-France,Employé,2015,10.667
+Hauts-de-France,Ouvrier,2015,10.597
+Provence-Alpes-Côte d'Azur,Cadre,2015,23.381
+Provence-Alpes-Côte d'Azur,Profession,2015,14.66
+Provence-Alpes-Côte d'Azur,Employé,2015,10.795
+Provence-Alpes-Côte d'Azur,Ouvrier,2015,10.791
+Grand Est,Cadre,2015,22.51
+Grand Est,Profession,2015,14.28
+Grand Est,Employé,2015,10.605
+Grand Est,Ouvrier,2015,10.713
+Occitanie,Cadre,2015,22.038
+Occitanie,Profession,2015,14.033
+Occitanie,Employé,2015,10.501
+Occitanie,Ouvrier,2015,10.422
+Normandie,Cadre,2015,22.745
+Normandie,Profession,2015,14.322
+Normandie,Employé,2015,10.556
+Normandie,Ouvrier,2015,10.741
+Nouvelle-Aquitaine,Cadre,2015,22.284
+Nouvelle-Aquitaine,Profession,2015,14.038
+Nouvelle-Aquitaine,Employé,2015,10.523
+Nouvelle-Aquitaine,Ouvrier,2015,10.387
+Centre-Val de Loire,Cadre,2015,22.915
+Centre-Val de Loire,Profession,2015,14.41
+Centre-Val de Loire,Employé,2015,10.775
+Centre-Val de Loire,Ouvrier,2015,10.823
+Bourgogne-Franche-Comté,Cadre,2015,22.159
+Bourgogne-Franche-Comté,Profession,2015,13.927
+Bourgogne-Franche-Comté,Employé,2015,10.51
+Bourgogne-Franche-Comté,Ouvrier,2015,10.546
+Bretagne,Cadre,2015,21.839
+Bretagne,Profession,2015,13.801
+Bretagne,Employé,2015,10.485
+Bretagne,Ouvrier,2015,10.359
+Corse,Cadre,2015,21.236
+Corse,Profession,2015,14.788
+Corse,Employé,2015,10.347
+Corse,Ouvrier,2015,10.074
+Pays de la Loire,Cadre,2015,21.665
+Pays de la Loire,Profession,2015,13.717
+Pays de la Loire,Employé,2015,10.603
+Pays de la Loire,Ouvrier,2015,10.519
+Île-de-France,Cadre,2015,25.71
+Île-de-France,Profession,2015,15.973
+Île-de-France,Employé,2015,12.064
+Île-de-France,Ouvrier,2015,12.137
+Guadeloupe,Cadre,2015,23.843
+Guadeloupe,Profession,2015,15.207
+Guadeloupe,Employé,2015,11.011
+Guadeloupe,Ouvrier,2015,10.054
+Martinique,Cadre,2015,24.511
+Martinique,Profession,2015,15.202
+Martinique,Employé,2015,10.841
+Martinique,Ouvrier,2015,10.456
+Guyane,Cadre,2015,25.156
+Guyane,Profession,2015,15.544
+Guyane,Employé,2015,11.05
+Guyane,Ouvrier,2015,10.056
+La Réunion,Cadre,2015,22.76
+La Réunion,Profession,2015,14.21
+La Réunion,Employé,2015,10.283
+La Réunion,Ouvrier,2015,9.86
+Auvergne-Rhône-Alpes,Cadre,2016,22.797
+Auvergne-Rhône-Alpes,Profession,2016,14.625
+Auvergne-Rhône-Alpes,Employé,2016,10.87
+Auvergne-Rhône-Alpes,Ouvrier,2016,10.774
+Hauts-de-France,Cadre,2016,21.574
+Hauts-de-France,Profession,2016,14.221
+Hauts-de-France,Employé,2016,10.567
+Hauts-de-France,Ouvrier,2016,10.504
+Provence-Alpes-Côte d'Azur,Cadre,2016,22.905
+Provence-Alpes-Côte d'Azur,Profession,2016,14.81
+Provence-Alpes-Côte d'Azur,Employé,2016,10.634
+Provence-Alpes-Côte d'Azur,Ouvrier,2016,10.498
+Grand Est,Cadre,2016,21.93
+Grand Est,Profession,2016,14.318
+Grand Est,Employé,2016,10.459
+Grand Est,Ouvrier,2016,10.626
+Occitanie,Cadre,2016,21.48
+Occitanie,Profession,2016,14.078
+Occitanie,Employé,2016,10.431
+Occitanie,Ouvrier,2016,10.257
+Normandie,Cadre,2016,22.325
+Normandie,Profession,2016,14.455
+Normandie,Employé,2016,10.492
+Normandie,Ouvrier,2016,10.638
+Nouvelle-Aquitaine,Cadre,2016,21.8
+Nouvelle-Aquitaine,Profession,2016,14.158
+Nouvelle-Aquitaine,Employé,2016,10.489
+Nouvelle-Aquitaine,Ouvrier,2016,10.281
+Centre-Val de Loire,Cadre,2016,22.455
+Centre-Val de Loire,Profession,2016,14.439
+Centre-Val de Loire,Employé,2016,10.649
+Centre-Val de Loire,Ouvrier,2016,10.744
+Bourgogne-Franche-Comté,Cadre,2016,21.694
+Bourgogne-Franche-Comté,Profession,2016,13.936
+Bourgogne-Franche-Comté,Employé,2016,10.312
+Bourgogne-Franche-Comté,Ouvrier,2016,10.466
+Bretagne,Cadre,2016,21.427
+Bretagne,Profession,2016,13.864
+Bretagne,Employé,2016,10.357
+Bretagne,Ouvrier,2016,10.275
+Corse,Cadre,2016,20.419
+Corse,Profession,2016,14.969
+Corse,Employé,2016,10.383
+Corse,Ouvrier,2016,10.088
+Pays de la Loire,Cadre,2016,21.081
+Pays de la Loire,Profession,2016,13.893
+Pays de la Loire,Employé,2016,10.521
+Pays de la Loire,Ouvrier,2016,10.536
+Île-de-France,Cadre,2016,25.322
+Île-de-France,Profession,2016,15.901
+Île-de-France,Employé,2016,11.742
+Île-de-France,Ouvrier,2016,11.275
+Guadeloupe,Cadre,2016,24.432
+Guadeloupe,Profession,2016,15.388
+Guadeloupe,Employé,2016,11.095
+Guadeloupe,Ouvrier,2016,10.175
+Martinique,Cadre,2016,24.485
+Martinique,Profession,2016,15.429
+Martinique,Employé,2016,11.0
+Martinique,Ouvrier,2016,10.483
+Guyane,Cadre,2016,24.44
+Guyane,Profession,2016,15.875
+Guyane,Employé,2016,11.33
+Guyane,Ouvrier,2016,10.37
+La Réunion,Cadre,2016,22.689
+La Réunion,Profession,2016,14.407
+La Réunion,Employé,2016,10.33
+La Réunion,Ouvrier,2016,9.963
