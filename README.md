@@ -280,6 +280,13 @@ https://public.tableau.com/profile/boulahmel#!/vizhome/Diffrencedesalaireentreun
 ## Requête n°4 :
 ## Requête n°5 :
 ## Requête n°6 :
+
+L'objectif de cette requête est de montrer l'évolution globale de salaire, par genre, entre 2012 et 2016. Le code *.xsl* se trouve dans le dossier **QUERIES**. Voici le résultat obtenu sous forme de table HTML.
+
+### Résultat html
+
+
+
 ## Requête n°7 :
 ## Requête n°8 :
 ## Requête n°9 :
