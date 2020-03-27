@@ -304,6 +304,15 @@ https://public.tableau.com/profile/boulahmel#!/vizhome/Salairesmoyensparrgionset
 ![image](https://user-images.githubusercontent.com/34581620/77691701-ad89d600-6fa5-11ea-931d-020fce9d2d49.png)
 
 ## Requête n°5 :
+
+L'objectif de cette requête est de montrer le salaire moyen par ville en 2016. Voici un extrait du résultat sous frome de table HTML.
+
+### Extrait html
+
+![image](https://user-images.githubusercontent.com/34581620/77708147-85ab6a00-6fc7-11ea-8599-9219d97b64f1.png)
+
+### Représentation graphique
+
 ## Requête n°6 :
 
 L'objectif de cette requête est de montrer l'évolution globale de salaire (en %), par genre, entre 2012 et 2016. Le code *.xsl* se trouve dans le dossier **QUERIES**. Voici le résultat obtenu sous forme de table HTML.
