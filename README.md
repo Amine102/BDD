@@ -313,6 +313,11 @@ L'objectif de cette requête est de montrer le salaire moyen par ville en 2016. 
 
 ### Représentation graphique
 
+Voici la représentation graphique du résultat. Vous trouverez le lien vers le document complet sur le lien suivant : 
+https://public.tableau.com/profile/boulahmel#!/vizhome/Salairesmoyensparvilletoutecatgoriesocio-professionnelleetgenreconfondusen2016/Sheet1?publish=yes
+
+![image](https://user-images.githubusercontent.com/34581620/77709036-13885480-6fca-11ea-8e84-e690d1c90963.png)
+
 ## Requête n°6 :
 
 L'objectif de cette requête est de montrer l'évolution globale de salaire (en %), par genre, entre 2012 et 2016. Le code *.xsl* se trouve dans le dossier **QUERIES**. Voici le résultat obtenu sous forme de table HTML.
