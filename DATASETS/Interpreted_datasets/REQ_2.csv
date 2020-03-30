@@ -1,0 +1,401 @@
+département,catégorie,ville,salaire
+Ain,Cadre,Arbent,42.3
+Ain,Profession,Versonnex,20
+Ain,Employé,Neyron,15
+Ain,Ouvrier,Cessy,12.5
+Aisne,Cadre,Fresnoy-le-Grand,30.9
+Aisne,Profession,Nogent-l'Artaud,16.5
+Aisne,Employé,Villeneuve-sur-Aisne,12.5
+Aisne,Ouvrier,Nogent-l'Artaud,12.6
+Allier,Cadre,Néris-les-Bains,32.2
+Allier,Profession,Commentry,17.1
+Allier,Employé,Néris-les-Bains,12.4
+Allier,Ouvrier,Prémilhat,12.7
+Alpes-de-Haute-Provence,Cadre,Pierrevert,28.4
+Alpes-de-Haute-Provence,Profession,Pierrevert,17.4
+Alpes-de-Haute-Provence,Employé,Pierrevert,12.1
+Alpes-de-Haute-Provence,Ouvrier,Sisteron,11.7
+Hautes-Alpes,Cadre,La Bâtie-Neuve,27
+Hautes-Alpes,Profession,L'Argentière-la-Bessée,15.3
+Hautes-Alpes,Employé,La Bâtie-Neuve,11.9
+Hautes-Alpes,Ouvrier,Saint-Bonnet-en-Champsaur,11.7
+Alpes-Maritimes,Cadre,Opio,43.1
+Alpes-Maritimes,Profession,Cap-d'Ail,91.4
+Alpes-Maritimes,Employé,La Roquette-sur-Siagne,12.9
+Alpes-Maritimes,Ouvrier,Le Bar-sur-Loup Roquefort-les-Pins,13
+Ardèche,Cadre,Rochemaure,30.7
+Ardèche,Profession,Cruas,19.3
+Ardèche,Employé,Vernosc-lès-Annonay,12.9
+Ardèche,Ouvrier,Cruas,12
+Ardennes,Cadre,Douzy,31.8
+Ardennes,Profession,Givet,17.9
+Ardennes,Employé,Vivier-au-Court,11.4
+Ardennes,Ouvrier,Bazeilles,12.2
+Ariège,Cadre,Mirepoix,26
+Ariège,Profession,Tarascon-sur-Ariège,16.3
+Ariège,Employé,Verniolle,11.6
+Ariège,Ouvrier,Laroque-d'Olmes,13.5
+Aube,Cadre,La Rivière-de-Corps,29.6
+Aube,Profession,Villenauxe-la-Grande,19.7
+Aube,Employé,Saint-Lyé,12
+Aube,Ouvrier,Nogent-sur-Seine,11.5
+Aude,Cadre,Sallèles-d'Aude,24.9
+Aude,Profession,Villemoustaussou,16.6
+Aude,Employé,Salles-d'Aude,11.9
+Aude,Ouvrier,Vinassan,11.3
+Aveyron,Cadre,Réquista,27.9
+Aveyron,Profession,Druelle Balsac,16.2
+Aveyron,Employé,Salles-la-Source,11.9
+Aveyron,Ouvrier,Druelle Balsac,12.1
+Bouches-du-Rhône,Cadre,Le Tholonet,47
+Bouches-du-Rhône,Profession,Saint-Rémy-de-Provence,20.3
+Bouches-du-Rhône,Employé,Ventabren,13.1
+Bouches-du-Rhône,Ouvrier,Port-Saint-Louis-du-Rhône,14.3
+Calvados,Cadre,Deauville,40.3
+Calvados,Profession,Mathieu,21.6
+Calvados,Employé,Rots,15.5
+Calvados,Ouvrier,Le Molay-Littry,12.8
+Cantal,Cadre,Mauriac,35.9
+Cantal,Profession,Jussac,15.2
+Cantal,Employé,Arpajon-sur-Cère,11.3
+Cantal,Ouvrier,Riom-ès-Montagnes,11.1
+Charente,Cadre,Cognac,29.2
+Charente,Profession,Garat,18.4
+Charente,Employé,Cherves-Richemont,12.6
+Charente,Ouvrier,Cherves-Richemont,12.3
+Charente-Maritime,Cadre,Sainte-Marie-de-Ré,36.9
+Charente-Maritime,Profession,Sainte-Marie-de-Ré,21.9
+Charente-Maritime,Employé,Saint-Rogatien,12.4
+Charente-Maritime,Ouvrier,Saint-Georges-d'Oléron,14.6
+Cher,Cadre,Saint-Doulchard,26.2
+Cher,Profession,Mehun-sur-Yèvre Saint-Martin-d'Auxigny,15.9
+Cher,Employé,Saint-Martin-d'Auxigny,11.8
+Cher,Ouvrier,Argent-sur-Sauldre Vignoux-sur-Barangeon,12.1
+Corrèze,Cadre,Ussac,27.1
+Corrèze,Profession,Naves,16.2
+Corrèze,Employé,Saint-Pantaléon-de-Larche,11.3
+Corrèze,Ouvrier,Allassac,11.6
+Côte-d'Or,Cadre,Fontaine-lès-Dijon,31.8
+Côte-d'Or,Profession,Fontaine-lès-Dijon,17.3
+Côte-d'Or,Employé,Marsannay-la-Côte,11.8
+Côte-d'Or,Ouvrier,Arc-sur-Tille,12.5
+Côtes-d'Armor,Cadre,Ploubazlanec,31.6
+Côtes-d'Armor,Profession,Guingamp,22.8
+Côtes-d'Armor,Employé,Ploubazlanec,12.2
+Côtes-d'Armor,Ouvrier,Ploubazlanec,12.1
+Creuse,Cadre,La Souterraine,25.7
+Creuse,Profession,Sainte-Feyre,15
+Creuse,Employé,La Souterraine,11
+Creuse,Ouvrier,Sainte-Feyre,10.7
+Dordogne,Cadre,Saint-Astier,26.9
+Dordogne,Profession,Lalinde,16.8
+Dordogne,Employé,Bassillac et Auberoche Champcevinel Marsac-sur-l'Isle,11.7
+Dordogne,Ouvrier,Lalinde,12.3
+Doubs,Cadre,Doubs,34.1
+Doubs,Profession,Les Auxons Voujeaucourt,16.7
+Doubs,Employé,Charquemont,13.1
+Doubs,Ouvrier,Châtillon-le-Duc Ornans,12.5
+Drôme,Cadre,Montélier,28.9
+Drôme,Profession,Saint-Paul-Trois-Châteaux,18.9
+Drôme,Employé,Montmeyran,13.2
+Drôme,Ouvrier,Suze-la-Rousse,11.9
+Eure,Cadre,Clef Vallée d'Eure,30.2
+Eure,Profession,La Chapelle-Longueville,17.9
+Eure,Employé,Vexin-sur-Epte,13
+Eure,Ouvrier,Bosroumois Le Thuit de l'Oison,12.9
+Eure-et-Loir,Cadre,Anet,29.3
+Eure-et-Loir,Profession,Le Coudray,17.5
+Eure-et-Loir,Employé,Chartres,14
+Eure-et-Loir,Ouvrier,Hanches,13.2
+Finistère,Cadre,Carantec,35.1
+Finistère,Profession,Le Conquet,18.2
+Finistère,Employé,Saint-Évarzec,12.4
+Finistère,Ouvrier,Moëlan-sur-Mer,12.3
+Corse-du-Sud,Cadre,Grosseto-Prugna,26.9
+Corse-du-Sud,Profession,Afa,19.2
+Corse-du-Sud,Employé,Afa,11.6
+Corse-du-Sud,Ouvrier,Alata,11.8
+Haute-Corse,Cadre,Ville-di-Pietrabugno,28
+Haute-Corse,Profession,Furiani,27
+Haute-Corse,Employé,Ville-di-Pietrabugno,13.1
+Haute-Corse,Ouvrier,Ville-di-Pietrabugno,12.3
+Gard,Cadre,Villeneuve-lès-Avignon,35
+Gard,Profession,Aramon,20.4
+Gard,Employé,Saint-Laurent-des-Arbres,13
+Gard,Ouvrier,Saint-Victor-la-Coste,12.9
+Haute-Garonne,Cadre,Seilh,38.5
+Haute-Garonne,Profession,Lacroix-Falgarde,20.5
+Haute-Garonne,Employé,Venerque,13.2
+Haute-Garonne,Ouvrier,Buzet-sur-Tarn,12.8
+Gers,Cadre,Eauze,30.6
+Gers,Profession,L'Isle-Jourdain,16.1
+Gers,Employé,Mauvezin,11.8
+Gers,Ouvrier,L'Isle-Jourdain,11.8
+Gironde,Cadre,Arcachon,35.6
+Gironde,Profession,Le Haillan,24.2
+Gironde,Employé,Martignas-sur-Jalle,13.4
+Gironde,Ouvrier,Bouliac,13.3
+Hérault,Cadre,Montferrier-sur-Lez,37.3
+Hérault,Profession,La Grande-Motte,18.2
+Hérault,Employé,Valergues,12.9
+Hérault,Ouvrier,Portiragnes,12.9
+Ille-et-Vilaine,Cadre,Saint-Briac-sur-Mer,35.4
+Ille-et-Vilaine,Profession,Saint-Gilles,20.9
+Ille-et-Vilaine,Employé,Irodouër,12.4
+Ille-et-Vilaine,Ouvrier,Retiers,11.8
+Indre,Cadre,Valençay,28.9
+Indre,Profession,Saint-Maur,16.3
+Indre,Employé,Vatan,11.7
+Indre,Ouvrier,Le Poinçonnet,11.7
+Indre-et-Loire,Cadre,Rochecorbon,33.2
+Indre-et-Loire,Profession,Bourgueil,20.2
+Indre-et-Loire,Employé,Savonnières,12.7
+Indre-et-Loire,Ouvrier,Semblançay,12.4
+Isère,Cadre,Corenc,38.2
+Isère,Profession,Saint-Maurice-l'Exil,18.8
+Isère,Employé,Ruy-Montceau,15.9
+Isère,Ouvrier,Saint-Georges-de-Commiers,13.6
+Jura,Cadre,Tavaux,29.3
+Jura,Profession,Tavaux,17.8
+Jura,Employé,Coteaux du Lizon,13.1
+Jura,Ouvrier,Damparis,12.6
+Landes,Cadre,Seignosse,35.6
+Landes,Profession,Saint-Vincent-de-Paul,16.8
+Landes,Employé,Labenne,11.7
+Landes,Ouvrier,Castets,11.8
+Loir-et-Cher,Cadre,Cellettes,31.7
+Loir-et-Cher,Profession,Saint-Laurent-Nouan,18.5
+Loir-et-Cher,Employé,Valencisse,12.7
+Loir-et-Cher,Ouvrier,Valencisse,12.3
+Loire,Cadre,L'Étrat,34.4
+Loire,Profession,L'Étrat,30.7
+Loire,Employé,Renaison Saint-Martin-la-Plaine,13.1
+Loire,Ouvrier,Saint-Galmier,12.5
+Haute-Loire,Cadre,Chadrac,28.2
+Haute-Loire,Profession,Sainte-Sigolène,16.1
+Haute-Loire,Employé,Saint-Ferréol-d'Auroure,12.8
+Haute-Loire,Ouvrier,Saint-Ferréol-d'Auroure,12
+Loire-Atlantique,Cadre,Le Pouliguen,33.7
+Loire-Atlantique,Profession,Sautron,21
+Loire-Atlantique,Employé,La Chapelle-Launay,13.5
+Loire-Atlantique,Ouvrier,Crossac,13.7
+Loiret,Cadre,Ouzouer-sur-Loire Saint-Jean-le-Blanc,29.9
+Loiret,Profession,Ouzouer-sur-Loire,20.5
+Loiret,Employé,Saint-Denis-en-Val,12.7
+Loiret,Ouvrier,Donnery Dordives,12.4
+Lot,Cadre,Gourdon,30.7
+Lot,Profession,Gourdon,15.5
+Lot,Employé,Biars-sur-Cère,10.9
+Lot,Ouvrier,Biars-sur-Cère Figeac,11.2
+Lot-et-Garonne,Cadre,Bon-Encontre,28.1
+Lot-et-Garonne,Profession,Penne-d'Agenais,17.5
+Lot-et-Garonne,Employé,Pont-du-Casse,12.8
+Lot-et-Garonne,Ouvrier,Brax,11.5
+Lozère,Cadre,Mende,22.9
+Lozère,Profession,Saint-Chély-d'Apcher,14.3
+Lozère,Employé,Bourgs sur Colagne,10.7
+Lozère,Ouvrier,Florac Trois Rivières,11.7
+Maine-et-Loire,Cadre,Cantenay-Épinard La Possonnière,30
+Maine-et-Loire,Profession,Bouchemaine,21.3
+Maine-et-Loire,Employé,Saint-Clément-de-la-Place,12.6
+Maine-et-Loire,Ouvrier,Mozé-sur-Louet,11.5
+Manche,Cadre,Agon-Coutainville,34.5
+Manche,Profession,Les Pieux,19.6
+Manche,Employé,La Hague,12.6
+Manche,Ouvrier,La Hague,12.6
+Marne,Cadre,Taissy,30
+Marne,Profession,Muizon,19.3
+Marne,Employé,Courtisols,13.1
+Marne,Ouvrier,Aÿ-Champagne,13.2
+Haute-Marne,Cadre,Bourbonne-les-Bains,32.7
+Haute-Marne,Profession,Éclaron-Braucourt-Sainte-Livière,15.9
+Haute-Marne,Employé,Joinville,11.5
+Haute-Marne,Ouvrier,Chalindrey,11.8
+Mayenne,Cadre,Bonchamp-lès-Laval,27.9
+Mayenne,Profession,Bonchamp-lès-Laval,15.7
+Mayenne,Employé,Entrammes,11.3
+Mayenne,Ouvrier,Évron Saint-Pierre-la-Cour,11.6
+Meurthe-et-Moselle,Cadre,Cosnes-et-Romain,29.6
+Meurthe-et-Moselle,Profession,Bois-de-Haye,25.6
+Meurthe-et-Moselle,Employé,Lay-Saint-Christophe Richardménil,13.2
+Meurthe-et-Moselle,Ouvrier,Audun-le-Roman,12.9
+Meuse,Cadre,Bouligny,30.4
+Meuse,Profession,Revigny-sur-Ornain,17.3
+Meuse,Employé,Fains-Véel,11.8
+Meuse,Ouvrier,Fains-Véel,12
+Morbihan,Cadre,Arzon,31.4
+Morbihan,Profession,Larmor-Plage,29.5
+Morbihan,Employé,Férel,12.2
+Morbihan,Ouvrier,Férel Groix Saint-Pierre-Quiberon,11.9
+Moselle,Cadre,Falck,36.8
+Moselle,Profession,Manom,20.8
+Moselle,Employé,Ennery,14.6
+Moselle,Ouvrier,Neufchef,12.9
+Nièvre,Cadre,Cosne-Cours-sur-Loire,26
+Nièvre,Profession,Cosne-Cours-sur-Loire,16.7
+Nièvre,Employé,Marzy,11.9
+Nièvre,Ouvrier,Marzy,12.3
+Nord,Cadre,Bondues,39.6
+Nord,Profession,Mérignies,44.3
+Nord,Employé,Flines-lez-Raches,17.4
+Nord,Ouvrier,Téteghem-Coudekerque-Village,13.8
+Oise,Cadre,Lamorlaye,41
+Oise,Profession,Lamorlaye,18.7
+Oise,Employé,Orry-la-Ville,14.4
+Oise,Ouvrier,Verneuil-en-Halatte,13.6
+Orne,Cadre,Val-au-Perche,33.6
+Orne,Profession,Juvigny Val d'Andaine,16.5
+Orne,Employé,Condé-sur-Sarthe,11.4
+Orne,Ouvrier,Rives d'Andaine Val-au-Perche,11.5
+Pas-de-Calais,Cadre,Neufchâtel-Hardelot,39.3
+Pas-de-Calais,Profession,Oye-Plage,19.6
+Pas-de-Calais,Employé,Locon,13.3
+Pas-de-Calais,Ouvrier,Sangatte,14
+Puy-de-Dôme,Cadre,Royat,32.8
+Puy-de-Dôme,Profession,Pérignat-lès-Sarliève,19.5
+Puy-de-Dôme,Employé,Aubière,13.9
+Puy-de-Dôme,Ouvrier,Volvic,17.1
+Pyrénées-Atlantiques,Cadre,Lescar,34.1
+Pyrénées-Atlantiques,Profession,Bordes Idron,17.8
+Pyrénées-Atlantiques,Employé,Bordes,13.6
+Pyrénées-Atlantiques,Ouvrier,Monein,12.9
+Hautes-Pyrénées,Cadre,Argelès-Gazost,26.5
+Hautes-Pyrénées,Profession,Ibos,16.8
+Hautes-Pyrénées,Employé,Ossun,11.5
+Hautes-Pyrénées,Ouvrier,Ibos,12.2
+Pyrénées-Orientales,Cadre,Arles-sur-Tech,29.2
+Pyrénées-Orientales,Profession,Sorède,16.4
+Pyrénées-Orientales,Employé,Canohès Latour-Bas-Elne,11.9
+Pyrénées-Orientales,Ouvrier,Collioure,11.6
+Bas-Rhin,Cadre,La Wantzenau,37.7
+Bas-Rhin,Profession,Lauterbourg,19.8
+Bas-Rhin,Employé,Bischoffsheim,13.8
+Bas-Rhin,Ouvrier,Offendorf,13.1
+Haut-Rhin,Cadre,Saint-Amarin,30.7
+Haut-Rhin,Profession,Fessenheim,21.3
+Haut-Rhin,Employé,Sainte-Croix-en-Plaine,14
+Haut-Rhin,Ouvrier,Biesheim,14.2
+Rhône,Cadre,Saint-Cyr-au-Mont-d'Or,50.1
+Rhône,Profession,Saint-Cyr-au-Mont-d'Or,65.2
+Rhône,Employé,Fontaines-Saint-Martin,16.1
+Rhône,Ouvrier,Chessy Toussieu,12.8
+Haute-Saône,Cadre,Échenoz-la-Méline,25.5
+Haute-Saône,Profession,Champagney Échenoz-la-Méline,15.7
+Haute-Saône,Employé,Rioz,12.1
+Haute-Saône,Ouvrier,Champagney,12.1
+Saône-et-Loire,Cadre,Givry,30.1
+Saône-et-Loire,Profession,Gueugnon,18
+Saône-et-Loire,Employé,Crissey Gergy,12.1
+Saône-et-Loire,Ouvrier,Gueugnon,13.5
+Sarthe,Cadre,Yvré-l'Évêque,29.6
+Sarthe,Profession,Bessé-sur-Braye,18.3
+Sarthe,Employé,Saint-Saturnin,13.1
+Sarthe,Ouvrier,Bessé-sur-Braye,13.1
+Savoie,Cadre,Tresserve,37.6
+Savoie,Profession,Grand-Aigueblanche,18.3
+Savoie,Employé,Mercury,13.9
+Savoie,Ouvrier,Les Belleville,15.2
+Haute-Savoie,Cadre,Veyrier-du-Lac,49.5
+Haute-Savoie,Profession,Neuvecelle,21.6
+Haute-Savoie,Employé,Argonay,13.2
+Haute-Savoie,Ouvrier,Domancy,13.8
+Paris,Cadre,Paris,37.2
+Paris,Profession,Paris,18.3
+Paris,Employé,Paris,11.8
+Paris,Ouvrier,Paris,11.1
+Seine-Maritime,Cadre,Sainte-Adresse,36.9
+Seine-Maritime,Profession,Cany-Barville,20.8
+Seine-Maritime,Employé,Quincampoix,17.9
+Seine-Maritime,Ouvrier,Sainte-Adresse,17.9
+Seine-et-Marne,Cadre,Bourron-Marlotte,41
+Seine-et-Marne,Profession,Grisy-Suisnes,19.5
+Seine-et-Marne,Employé,Chailly-en-Bière,15.2
+Seine-et-Marne,Ouvrier,Couilly-Pont-aux-Dames,15.7
+Yvelines,Cadre,Saint-Nom-la-Bretèche,63.6
+Yvelines,Profession,Chambourcy,69.2
+Yvelines,Employé,Le Vésinet,23.5
+Yvelines,Ouvrier,Louveciennes,19.6
+Deux-Sèvres,Cadre,Magné,27.2
+Deux-Sèvres,Profession,Chef-Boutonne,16.7
+Deux-Sèvres,Employé,Magné,16.7
+Deux-Sèvres,Ouvrier,Airvault,11.5
+Somme,Cadre,Chaulnes,32
+Somme,Profession,Nesle,17.2
+Somme,Employé,Ailly-sur-Noye,13.1
+Somme,Ouvrier,Corbie,12.4
+Tarn,Cadre,Castres,26.9
+Tarn,Profession,Saïx,21.8
+Tarn,Employé,Puygouzon,12.5
+Tarn,Ouvrier,Saint-Sulpice-la-Pointe,11.9
+Tarn-et-Garonne,Cadre,Valence,26.9
+Tarn-et-Garonne,Profession,Valence,16.7
+Tarn-et-Garonne,Employé,Bressols Montech,11.5
+Tarn-et-Garonne,Ouvrier,Verdun-sur-Garonne,11.6
+Var,Cadre,Ramatuelle,47.1
+Var,Profession,Carqueiranne,27.6
+Var,Employé,Seillons-Source-d'Argens,12.7
+Var,Ouvrier,Pourrières Ramatuelle,12.6
+Vaucluse,Cadre,Velleron,31.6
+Vaucluse,Profession,Mornas,17.4
+Vaucluse,Employé,Mornas,12.3
+Vaucluse,Ouvrier,Caderousse,11.9
+Vendée,Cadre,Saint-Martin-des-Noyers,30.5
+Vendée,Profession,Mouilleron-le-Captif,16.1
+Vendée,Employé,Cugand Rives-d'Autise,12.7
+Vendée,Ouvrier,L'Île-d'Yeu,12.3
+Vienne,Cadre,Lusignan,29.3
+Vienne,Profession,Lussac-les-Châteaux,18.7
+Vienne,Employé,Valence-en-Poitou Quinçay,13.3
+Vienne,Ouvrier,Thuré,12.7
+Haute-Vienne,Cadre,Saint-Just-le-Martel,30.8
+Haute-Vienne,Profession,Rochechouart,16.8
+Haute-Vienne,Employé,Saint-Gence,12.8
+Haute-Vienne,Ouvrier,Rochechouart,12
+Vosges,Cadre,Étival-Clairefontaine,29.6
+Vosges,Profession,Vittel,18.5
+Vosges,Employé,Xertigny,11.9
+Vosges,Ouvrier,Vittel,13.8
+Yonne,Cadre,Saint-Georges-sur-Baulche,29.1
+Yonne,Profession,Chevannes,17.6
+Yonne,Employé,Saint-Georges-sur-Baulche,13.5
+Yonne,Ouvrier,Champigny,12.2
+Territoire de Belfort,Cadre,Valdoie,44
+Territoire de Belfort,Profession,Évette-Salbert,17.4
+Territoire de Belfort,Employé,Offemont,11.9
+Territoire de Belfort,Ouvrier,Évette-Salbert,12.1
+Essonne,Cadre,Bièvres,44.1
+Essonne,Profession,Étiolles,20.4
+Essonne,Employé,Étiolles,14.9
+Essonne,Ouvrier,Fontenay-lès-Briis,14.2
+Hauts-de-Seine,Cadre,Neuilly-sur-Seine,62.3
+Hauts-de-Seine,Profession,Neuilly-sur-Seine,24.6
+Hauts-de-Seine,Employé,Neuilly-sur-Seine,14.4
+Hauts-de-Seine,Ouvrier,Neuilly-sur-Seine Le Plessis-Robinson,12.6
+Seine-Saint-Denis,Cadre,Le Raincy,30.7
+Seine-Saint-Denis,Profession,Gournay-sur-Marne,17.4
+Seine-Saint-Denis,Employé,Gournay-sur-Marne,13.5
+Seine-Saint-Denis,Ouvrier,Gournay-sur-Marne,13.1
+Val-de-Marne,Cadre,Marolles-en-Brie,35.9
+Val-de-Marne,Profession,Mandres-les-Roses,18.9
+Val-de-Marne,Employé,Périgny,14.4
+Val-de-Marne,Ouvrier,Noiseau,13.7
+Val-d'Oise,Cadre,Saint-Witz,38.7
+Val-d'Oise,Profession,Saint-Witz,20.5
+Val-d'Oise,Employé,Saint-Witz,15.8
+Val-d'Oise,Ouvrier,Chaumontel,14.1
+Guadeloupe,Cadre,Bouillante,34
+Guadeloupe,Profession,Deshaies,19.5
+Guadeloupe,Employé,Petit-Bourg,13.1
+Guadeloupe,Ouvrier,Le Moule Petit-Bourg,11.9
+Martinique,Cadre,Le François,42.4
+Martinique,Profession,Le Diamant,18
+Martinique,Employé,Basse-Pointe,12.5
+Martinique,Ouvrier,Basse-Pointe,14.6
+Guyane,Cadre,Kourou,36.9
+Guyane,Profession,Kourou,22.1
+Guyane,Employé,Montsinéry-Tonnegrande,14.1
+Guyane,Ouvrier,Montsinéry-Tonnegrande,12.6
+La Réunion,Cadre,La Possession,30.4
+La Réunion,Profession,La Possession,17.2
+La Réunion,Employé,La Possession,11.6
+La Réunion,Ouvrier,La Possession,12.9
