@@ -385,9 +385,13 @@ L'objectif de cette requête est de déterminer quelle est la ville qui propose 
 
 ### Résultat html
 
+![image](https://user-images.githubusercontent.com/34581620/77954918-aa595780-72cf-11ea-98ad-a10e02f30817.png)
+
 ### Représentation graphique
 
 Voici la représentation graphique du résultat.
+
+
 
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
