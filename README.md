@@ -381,6 +381,14 @@ https://public.tableau.com/profile/boulahmel#!/vizhome/Dterminerpourchaquergione
 
 ## Requête n°10 :
 
+L'objectif de cette requête est de déterminer quelle est la ville qui propose le meilleur salaire en 2016, toute catégorie et genre confondus. Voici le résultat sous la forme d'une table HTML.
+
+### Résultat html
+
+### Représentation graphique
+
+Voici la représentation graphique du résultat.
+
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
  - Matthieu Juzdzewski matthieu.juzdzewski@etu.univ-nantes.fr
