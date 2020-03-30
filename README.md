@@ -350,7 +350,35 @@ https://public.tableau.com/profile/boulahmel#!/vizhome/Lavillelaplusintressantee
 ![image](https://user-images.githubusercontent.com/34581620/77948500-cbb54600-72c5-11ea-96e5-a829834faff4.png)
 
 ## Requête n°8 :
+
+L'objectif de cette requête est de tenter de prévoir, en utilisant les données des salaires de 2012 à 2016, la valeur du salaire moyen en 2020, 2025 et 2030. Voic le résultat sous la forme d'une table HTML.
+
+### Extrait html
+
+![image](https://user-images.githubusercontent.com/34581620/77950862-79762400-72c9-11ea-88fb-23e6fd9dc68d.png)
+
+### Représentation graphique
+
+Voici une réprésentation graphique du résultat. Vous pouvez également trouver le graphique en suivant ce lien :
+https://public.tableau.com/profile/boulahmel#!/vizhome/volutiondesalairemoyenpourchaquecategoriesocio-professionnelleentre2012et2016/Sheet1?publish=yes
+
+![image](https://user-images.githubusercontent.com/34581620/77952018-49c81b80-72cb-11ea-8e8a-fabc2d1d9774.png)
+
 ## Requête n°9 :
+
+L'objectif de cette requête est de montrer quelle est la ville la plus *intéressante* en terme de salaire (en 2016), et ce pour chaque département et chaque catégorie socio-professionnelle. Voici un extrait du résultat sous forme de table HTML.
+
+### Extrait html
+
+![image](https://user-images.githubusercontent.com/34581620/77952280-adeadf80-72cb-11ea-98fb-8f875d708069.png)
+
+### Représentation graphique
+
+Voici un extrait de la représentation graphique du résultat. Vous pourrez trouver le document complet en suivant le lien suivant :
+https://public.tableau.com/profile/boulahmel#!/vizhome/Dterminerpourchaquergionetchaquedpartementquelleestlavillelaplusintressanteentermedesalairepourchaquecatgoriesocio-propfessionnelleen2016/Sheet1?publish=yes
+
+![image](https://user-images.githubusercontent.com/34581620/77952445-f7d3c580-72cb-11ea-81d0-c857f54de7f2.png)
+
 ## Requête n°10 :
 
  # Contributors
