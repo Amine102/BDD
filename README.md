@@ -391,6 +391,7 @@ L'objectif de cette requête est de déterminer quelle est la ville qui propose 
 
 Voici la représentation graphique du résultat.
 
+![image](https://user-images.githubusercontent.com/34581620/77955747-02dd2480-72d1-11ea-87c6-2b7922a8581d.png)
 
 
  # Contributors
