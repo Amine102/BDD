@@ -335,8 +335,23 @@ https://public.tableau.com/profile/boulahmel#!/vizhome/Evolutiondesdiffrencesdes
 
 
 ## Requête n°7 :
+
+L'objectif de cette requête est de donner, pour chaque catégorie socio-professionnelle, la ville la plus *intéressante* en terme de salaire (en 2016). Voici le résultat sous forme de table HTML.
+
+### Résultat html
+
+![image](https://user-images.githubusercontent.com/34581620/77948233-62cdce00-72c5-11ea-8d55-f13f96c486e4.png)
+
+### Représentation graphique
+
+Voici une représentation graphique du résultat. Vous pouvez également trouver le graphique sur ce lien : 
+https://public.tableau.com/profile/boulahmel#!/vizhome/Lavillelaplusintressanteentermedesalairepourchaquecatgoriesocio-professionnelleen2016/Sheet1?publish=yes
+
+![image](https://user-images.githubusercontent.com/34581620/77948500-cbb54600-72c5-11ea-96e5-a829834faff4.png)
+
 ## Requête n°8 :
 ## Requête n°9 :
+## Requête n°10 :
 
  # Contributors
  - Amine Boulahmel amine.boulahmel@etu.univ-nantes.fr
