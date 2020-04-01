@@ -337,7 +337,7 @@ L'objectif de cette requête est de montrer l'évolution globale de salaire (en 
 
 ### Représentation graphique
 
-Voici les courbes d'évolution des salaires entre 2012 et 2016. La courbe en bleu correspond à l'évolution du salaire des femmes. L'autre courbe correspond à l'évolution du salaire des hommes. Vous pourrez retrouver le graphique sur ce lien :
+Voici les courbes d'évolution des salaires entre 2012 et 2016. La courbe en bleu correspond à l'évolution de l'augmentation du salaire des femmes. L'autre courbe correspond à l'évolution de l'augmentation du salaire des hommes. Vous pourrez retrouver le graphique sur ce lien :
 https://public.tableau.com/profile/boulahmel#!/vizhome/Evolutiondesdiffrencesdesalairesentreleshommesetlesfemmes2012-2016/Sheet1?publish=yes
 
 ![image](https://user-images.githubusercontent.com/34581620/78178340-c429a480-745f-11ea-83ac-d0e86b65607d.png)
