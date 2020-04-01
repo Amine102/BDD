@@ -1,7 +1,7 @@
 # Base de données évoluées
 # Contenu
 1. [Prérequis](#Prérequis)
-2. [Préparation des données](#Préparation-des-données)
+2. [Préparation des données](##Préparation-des-données)
 2.1 [Prétraitements sous OpenRefine](#Prétraitements-sous-OpenRefine)
 2.2 [Prétraitements sous R](#Prétraitements sous R)
 3. [Construction de l'entrepôt de données](#Construction de l'entrepôt de données)
