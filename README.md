@@ -6,6 +6,7 @@
 	2. [Prétraitements sous R](#Prétraitements-sous-R)
 3. [Construction de l'entrepôt de données](#construction-de-lentrepôt-de-données)
 	1. [Création de la DTD](#Création-de-la-DTD)
+	2. [Conversion du fichier csv au format xml ](#conversion-du-fichier-csv-au-format-xml)
 4. [Requêtes en XSLT 2.0](#requêtes-en-xslt-20)
 # Prérequis
 - OpenRefine: https://openrefine.org/download.html
