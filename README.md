@@ -4,7 +4,7 @@
 2. [Préparation des données](#Préparation-des-données)
 	1. [Prétraitements sous OpenRefine](#Prétraitements-sous-OpenRefine)
 	2. [Prétraitements sous R](#Prétraitements-sous-R)
-3. [Construction de l'entrepôt de données](#Construction de l'entrepôt de données)
+3. [Construction de l'entrepôt de données](#Construction-de-l'entrepôt-de-données)
 	1. [Création de la DTD](#Création-de-la-DTD)
 4. [Requêtes en XSLT 2.0](#Requêtes-en-XSLT-2-.-0)
 # Prérequis
