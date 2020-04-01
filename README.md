@@ -6,7 +6,7 @@
 	2. [Prétraitements sous R](#Prétraitements-sous-R)
 3. [Construction de l'entrepôt de données](#Construction-de-l'entrepôt-de-données)
 	1. [Création de la DTD](#Création-de-la-DTD)
-4. [Requêtes en XSLT 2.0](#Requêtes-en-XSLT-2-.-0)
+4. [Requêtes en XSLT 2.0](#Requêtes-en-XSLT-2.0)
 # Prérequis
 - OpenRefine: https://openrefine.org/download.html
 - Rstudio: https://rstudio.com/products/rstudio/download/
