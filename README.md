@@ -2,10 +2,10 @@
 # Contenu
 1. [Prérequis](#Prérequis)
 2. [Préparation des données](##Préparation-des-données)
-2.1. [Prétraitements sous OpenRefine](#Prétraitements-sous-OpenRefine)
-2.2. [Prétraitements sous R](#Prétraitements-sous-R)
+	1. [Prétraitements sous OpenRefine](#Prétraitements-sous-OpenRefine)
+	2. [Prétraitements sous R](#Prétraitements-sous-R)
 3. [Construction de l'entrepôt de données](#Construction-de-l'entrepôt-de-données)
-3.1. [Création de la DTD](#Création-de-la-DTD)
+	1. [Création de la DTD](#Création-de-la-DTD)
 4. [Requêtes en XSLT 2.0](#Requêtes-en-XSLT-2.0)
 # Prérequis
 - OpenRefine: https://openrefine.org/download.html
