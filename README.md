@@ -274,7 +274,7 @@ L'objectif de cette requête est de donner, pour chaque ville et chaque catégor
 ### Extrait html
 
 
-![image](https://user-images.githubusercontent.com/34581620/77684921-ee302200-6f9a-11ea-8efa-75808504e896.png)
+![image](https://user-images.githubusercontent.com/34581620/78177837-07cfde80-745f-11ea-9bf6-5da07570ad24.png)
 
 ### Représentation graphique
 
