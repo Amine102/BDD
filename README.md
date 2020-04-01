@@ -1,12 +1,19 @@
 # Base de données évoluées
 # Contenu
 1. [Prérequis](#Prérequis)
-2. [Préparation des données](##Préparation-des-données)
+2. [Préparation des données](#Préparation-des-données)
 	1. [Prétraitements sous OpenRefine](#Prétraitements-sous-OpenRefine)
 	2. [Prétraitements sous R](#Prétraitements-sous-R)
 3. [Construction de l'entrepôt de données](#Construction-de-l'entrepôt-de-données)
 	1. [Création de la DTD](#Création-de-la-DTD)
+	2. [Conversion du fichier .csv au format .XML](#Conversion-du-fichier-.csv-au-format-.XML)
 4. [Requêtes en XSLT 2.0](#Requêtes-en-XSLT-2.0)
+	1.[Requête n°1](#Requête-n°1)
+		1.[Extrait html](#Extrait-html)
+		2.[Représentation graphique](#Représentation graphique)
+	2.[Requête n°2](#Requête-n°2)
+		1.[Extrait html](#Extrait-html)
+		2.[Représentation graphique](#Représentation graphique)
 # Prérequis
 - OpenRefine: https://openrefine.org/download.html
 - Rstudio: https://rstudio.com/products/rstudio/download/
