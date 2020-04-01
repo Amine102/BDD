@@ -333,7 +333,7 @@ L'objectif de cette requête est de montrer l'évolution globale de salaire (en 
 
 ### Résultat html
 
-![image](https://user-images.githubusercontent.com/34581620/77672664-75749a00-6f89-11ea-82be-073bf1002cea.png)
+![image](https://user-images.githubusercontent.com/34581620/78177686-c93a2400-745e-11ea-8f81-4771c80a7943.png)
 
 ### Représentation graphique
 
